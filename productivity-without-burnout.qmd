@@ -47,7 +47,7 @@ A conversation about working smart,<br/>resting well, and finishing strong.
 
 ::: {.columns}
 ::: {.column width="10%"}
-<div style="width:220px; height:220px; border-radius:50%; overflow:hidden; border:4px solid #003087; margin:0 auto;"><img src="raul-headshot.jpg" style="width:220px; height:250px; max-width:none; max-height:none; margin-top:-20px;"/></div>
+<div style="width:220px; height:220px; border-radius:50%; overflow:hidden; border:4px solid #003087; margin:0 auto;"><img src="raul-headshot.jpg" style="width:230px; height:250px; max-width:none; max-height:none; margin-top:-20px;"/></div>
 
 ::: {style="text-align: center; margin-top: 0.5rem;"}
 **Raúl J. Solá Navarro**
@@ -61,12 +61,11 @@ Expected Graduation Fall 2026
 **Tell us about yourself!**
 
 - Master in Science in Business Analytics with a concentration in Data Analytics.
-- Former Texas Instruments Finance & Operations Leader.
-- To me burnout is a feeling of overwhelment which causes lost of motivation.
-- LinkedIn: [https://www.linkedin.com/in/raul-sola-navarro/](#)
+- Former [Texas Instruments](https://www.ti.com/about-ti/company/overview.html) Finance & Operations Leader and Founder and Owner at [IronSportz](https://www.linkedin.com/company/iron-sportz/)
+- To me "burnout" is a feeling of overwhelment which causes lost of motivation. I want to help other students to cope with this feeling and share the strategies that helped me to overcome it.
 
 ::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.8rem; margin-top: 1rem; border-radius: 4px; font-style: italic;"}
-Tip - When feeling stuck, try completing the easiest task to build some momentum.
+Tip: When feeling stuck, try completing the easiest task to build some momentum.
 :::
 :::
 :::
@@ -81,8 +80,8 @@ Introduce yourself -- program, year, why you care about this topic personally.
 
 ::: {.columns}
 ::: {.column width="10%"}
-<div style="width:220px; height:220px; border-radius:50%; overflow:hidden; border:4px solid #003087; margin:0 auto;"><img src="may-headshot.jpg" style="width:220px; height:250px;
-max-width:none; max-height:none; margin-top:-10px;"/></div>
+<div style="width:220px; height:220px; border-radius:50%; overflow:hidden; border:4px solid #003087; margin:0 auto;"><img src="may-headshot.jpg" style="width:230px; height:240px;
+max-width:none; max-height:none; margin-top: -10px;"/></div>
 
 ::: {style="text-align: center; margin-top: 0.5rem;"}
 **May Phyo Paing**
@@ -95,13 +94,13 @@ Expected Graduation Fall 2026
 ::: {.column width="70%"}
 **Tell us about yourself!**
 
-- Program and concentration
-- Background and prior work experience
-- Why this topic matters to you personally
-- LinkedIn: [https://www.linkedin.com/in/may-phyo-2829-paing/](#)
+- Master of Science in Finance 
+- Former Senior Analyst at [SMBC](https://www.smfg.co.jp/english/); current Graduate TA at [Baruch College](https://www.baruch.cuny.edu/) and Finance Intern at [Dakdan](http://www.dakdan.com)
+- I have been there! I have experienced the stress and overwhelm of grad school and recruiting, and I want to share the strategies that helped me thrive instead of just survive.
 
 ::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.8rem; margin-top: 1rem; border-radius: 4px; font-style: italic;"}
-Tip -- Share something unexpected or funny. It makes you memorable!
+"My path to Zicklin demanded resilience I didn’t know I had. As a first-generation student coming from a country facing instability, the transition was overwhelming at first. A new academic system, a new culture, a new pace of life. Over time, I found my rhythm, built meaningful connections, and began to see how this experience was shaping my growth. Somewhere along the way, I realized I was no longer just catching up. I was growing, adapting, and thriving." - Myself, 3 months ago
+
 :::
 :::
 :::
