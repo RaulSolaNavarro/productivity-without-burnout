@@ -1,0 +1,791 @@
+---
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    progress: true
+    transition: slide
+    background-transition: fade
+    logo: zicklin-logo.JPG
+    footer: "Zicklin School of Business | Student Ambassador Virtual Cafe | April 15, 2025"
+    width: 1280
+    height: 720
+    margin: 0.1
+    center: false
+    controls: true
+    controls-layout: bottom-right
+    touch: true
+---
+
+## {background-color="#003087"}
+
+```{=html}
+<div style="display:grid; grid-template-columns:1fr 1fr; height:85%; align-items:center; gap:2rem; padding:1rem 2rem;">
+
+<div style="color:white;">
+<div style="font-size:0.75em; color:#CFB87C; letter-spacing:3px; text-transform:uppercase; margin-bottom:1rem;">Baruch College - Zicklin School of Business</div>
+<div style="font-size:2em; font-weight:700; line-height:1.2; margin-bottom:1rem;">Productivity Without Burnout</div>
+<div style="font-size:1.1em; color:#CFB87C; margin-bottom:1.5rem;">Thriving in Graduate School</div>
+<div style="font-size:0.8em; color:rgba(255,255,255,0.75); border-top:1px solid rgba(255,255,255,0.25); padding-top:1rem;">
+Wednesday, April 15 &bull; 10:30 AM to 11:30 AM<br/>Student Ambassador Virtual Cafe
+</div>
+</div>
+
+<div style="display:flex; flex-direction:column; align-items:center; justify-content:center; gap:1.5rem;">
+<img src="zicklin-logo.JPG" style="width:200px; background:white; padding:1rem; border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.3);"/>
+<div style="background:rgba(207,184,124,0.15); border:1px solid #CFB87C; border-radius:10px; padding:1.2rem; text-align:center; color:white; font-size:0.85em; line-height:1.6;">
+A conversation about working smart,<br/>resting well, and finishing strong.
+</div>
+</div>
+
+</div>
+```
+
+---
+
+## About Me - Raúl {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="10%"}
+<div style="width:220px; height:220px; border-radius:50%; overflow:hidden; border:4px solid #003087; margin:0 auto;"><img src="raul-headshot.jpg" style="width:220px; height:250px; max-width:none; max-height:none; margin-top:-20px;"/></div>
+
+::: {style="text-align: center; margin-top: 0.5rem;"}
+**Raúl J. Solá Navarro**
+
+Student Ambassador
+
+Expected Graduation Fall 2026
+:::
+:::
+::: {.column width="70%"}
+**Tell us about yourself!**
+
+- Master in Science in Business Analytics with a concentration in Data Analytics.
+- Former Texas Instruments Finance & Operations Leader.
+- To me burnout is a feeling of overwhelment which causes lost of motivation.
+- LinkedIn: [https://www.linkedin.com/in/raul-sola-navarro/](#)
+
+::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.8rem; margin-top: 1rem; border-radius: 4px; font-style: italic;"}
+Tip - When feeling stuck, try completing the easiest task to build some momentum.
+:::
+:::
+:::
+
+::: {.notes}
+Introduce yourself -- program, year, why you care about this topic personally.
+:::
+
+---
+
+## About Me - May {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="10%"}
+<div style="width:220px; height:220px; border-radius:50%; overflow:hidden; border:4px solid #003087; margin:0 auto;"><img src="may-headshot.jpg" style="width:220px; height:250px;
+max-width:none; max-height:none; margin-top:-10px;"/></div>
+
+::: {style="text-align: center; margin-top: 0.5rem;"}
+**May Phyo Paing**
+
+Student Ambassador
+
+Expected Graduation Fall 2026
+:::
+:::
+::: {.column width="70%"}
+**Tell us about yourself!**
+
+- Program and concentration
+- Background and prior work experience
+- Why this topic matters to you personally
+- LinkedIn: [https://www.linkedin.com/in/may-phyo-2829-paing/](#)
+
+::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.8rem; margin-top: 1rem; border-radius: 4px; font-style: italic;"}
+Tip -- Share something unexpected or funny. It makes you memorable!
+:::
+:::
+:::
+
+::: {.notes}
+Introduce yourself -- program, year, your personal story.
+:::
+
+---
+
+## Lets Meet Everyone! {background-color="#003087"}
+
+::: {style="text-align: center; padding: 2rem;"}
+
+Please drop this in the **chat**
+
+::: {style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 1.5rem; margin: 1rem auto; max-width: 600px; font-size: 1.1em;"}
+**Your name - Your program - One emoji that describes your stress level right now**
+:::
+
+Take 60 seconds -- we will read a few out loud!
+
+:::
+
+---
+
+## Today's Agenda {background-color="#f5f7fa"}
+
+::: {style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-top: 0.5rem;"}
+::: {style="background: #003087; color: white; border-radius: 10px; padding: 1.2rem; text-align: center;"}
+**01**
+
+The ROI of Effort
+:::
+::: {style="background: #003087; color: white; border-radius: 10px; padding: 1.2rem; text-align: center;"}
+**02**
+
+Career Hustle Boundaries
+:::
+::: {style="background: #003087; color: white; border-radius: 10px; padding: 1.2rem; text-align: center;"}
+**03**
+
+Strategic Collaboration
+:::
+::: {style="background: #CFB87C; color: #003087; border-radius: 10px; padding: 1.2rem; text-align: center;"}
+**04**
+
+Intentional Rest
+:::
+::: {style="background: #CFB87C; color: #003087; border-radius: 10px; padding: 1.2rem; text-align: center;"}
+**05**
+
+Red Flags and Early Wins
+:::
+::: {style="background: #1a5276; color: white; border-radius: 10px; padding: 1.2rem; text-align: center;"}
+**06**
+
+Q and A + Connect
+:::
+:::
+
+About 10 minutes per section - interactive throughout
+
+---
+
+## 01 - The Art of Prioritization {background-color="#003087"}
+
+::: {style="color: #CFB87C; font-size: 1.4em; margin-top: 2rem; text-align: center;"}
+The ROI of Effort Framework
+:::
+
+---
+
+## Not All Tasks Deserve Equal Effort {background-color="#f5f7fa"}
+
+::: {style="background: #003087; color: white; border-radius: 8px; padding: 1rem 1.5rem; margin-bottom: 1.2rem; font-size: 0.9em;"}
+A 2019 study in the Journal of Experimental Psychology found that people who distinguish between high- and low-stakes tasks report **31% lower stress** and higher academic performance.
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+**High-Impact Work**
+
+- Coursework tied to your specialization
+- Genuine recruiter and professional relationships
+- Projects with real deliverables
+- Strategic rest and recovery
+:::
+::: {.column width="50%"}
+**Busy Work**
+
+- Perfecting formatting no one reads
+- Attending every optional event
+- Re-reading notes you already know
+- Refreshing email every 10 minutes
+:::
+:::
+
+---
+
+## The Eisenhower Matrix {background-color="#ffffff"}
+
+::: {style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; margin-top: 0.5rem;"}
+::: {style="background: #d4edda; border-radius: 8px; padding: 1.2rem; border-top: 4px solid #28a745;"}
+**DO NOW**
+
+Urgent and Important
+
+Exam tomorrow - Deadline today - Health issue
+:::
+::: {style="background: #cce5ff; border-radius: 8px; padding: 1.2rem; border-top: 4px solid #004085;"}
+**SCHEDULE**
+
+Not Urgent and Important
+
+Career goals - Relationships - Self-care - Planning
+:::
+::: {style="background: #fff3cd; border-radius: 8px; padding: 1.2rem; border-top: 4px solid #856404;"}
+**DELEGATE**
+
+Urgent and Not Important
+
+Some emails - Routine admin - Certain meetings
+:::
+::: {style="background: #f8d7da; border-radius: 8px; padding: 1.2rem; border-top: 4px solid #842029;"}
+**ELIMINATE**
+
+Not Urgent and Not Important
+
+Social media spirals - Unnecessary perfecting
+:::
+:::
+
+::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.7rem; margin-top: 0.8rem; border-radius: 4px; font-size: 0.85em;"}
+**The Grad School Trap** -- Most burnout comes from spending time in the Delegate and Eliminate boxes, not from actually being too busy.
+:::
+
+---
+
+## The Good Enough Permission Slip {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="58%"}
+Research by Dr. Barry Schwartz shows that "satisficers" -- people who choose good enough -- report higher life satisfaction than "maximizers" who over-optimize.
+
+**Graduate School Translation**
+
+| Quality | Result |
+|---------|--------|
+| 90% paper you submit | Gets graded |
+| 100% paper never turned in | F |
+| Weekly networking emails | Career connections |
+| Perfect emails never sent | Silence |
+:::
+::: {.column width="42%"}
+::: {style="background: white; border: 3px dashed #003087; border-radius: 12px; padding: 1.5rem; text-align: center;"}
+**Permission Slip**
+
+I give myself permission to do this task at:
+
+**Good Enough**
+
+Signed -- Future-Me Who Slept Last Night
+:::
+:::
+:::
+
+---
+
+## 02 - Compartmentalizing the Career Hustle {background-color="#003087"}
+
+::: {style="color: #CFB87C; font-size: 1.4em; margin-top: 2rem; text-align: center;"}
+Recruiting Without Losing Your Mind
+:::
+
+---
+
+## Raise Your Hand {background-color="#f5f7fa"}
+
+::: {style="text-align: center; padding: 2.5rem; background: white; border-radius: 16px; border: 3px solid #003087; max-width: 700px; margin: 1rem auto;"}
+**Raise your hand or type YES in chat**
+
+Have you ever felt guilty for NOT job searching?
+
+::: {style="margin-top: 1.5rem; padding: 1rem; background: #003087; color: white; border-radius: 8px;"}
+We see you. We have been there.
+
+**Lets fix that.**
+:::
+:::
+
+---
+
+## Time Blocking - The Career Hustle Fix {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="54%"}
+**Why Recruiting Takes Over**
+
+- Job search is **infinite** -- there is always one more application, company, or connection
+- Without structure, recruiting anxiety bleeds into every moment
+- Cal Newport in Deep Work -- The pull to always be doing something kills deep focus
+
+**The Fix**
+
+Reserve **specific hours** for job search. Outside those hours -- it does not exist.
+
+> Done for today is not giving up. It is protecting tomorrow's energy.
+:::
+::: {.column width="46%"}
+::: {style="background: #003087; color: white; border-radius: 12px; padding: 1.2rem;"}
+**Sample Weekly Block**
+
+<table style='width:100%; color:white; font-size:0.85em; border-collapse:collapse;'>
+<tr style='background:rgba(255,255,255,0.2);'><th style='padding:0.4rem;'>Day</th><th style='padding:0.4rem;'>Block</th><th style='padding:0.4rem;'>Task</th></tr>
+<tr style='background:#003087 !important;'><td style='padding:0.4rem; color:white !important; background:#003087 !important;'>Mon</td><td style='padding:0.4rem; color:white !important; background:#003087 !important;'>7-8pm</td><td style='padding:0.4rem; color:white !important; background:#003087 !important;'>Applications</td></tr>
+<tr style='background:rgba(255,255,255,0.1);'><td style='padding:0.4rem;'>Wed</td><td style='padding:0.4rem;'>12-1pm</td><td style='padding:0.4rem;'>Networking</td></tr>
+<tr style='background:#003087 !important;'><td style='padding:0.4rem; color:white !important; background:#003087 !important;'>Fri</td><td style='padding:0.4rem; color:white !important; background:#003087 !important;'>6-7pm</td><td style='padding:0.4rem; color:white !important; background:#003087 !important;'>Follow-up</td></tr>
+<tr style='background:rgba(255,255,255,0.1);'><td style='padding:0.4rem;'>Weekend</td><td style='padding:0.4rem;'>Off</td><td style='padding:0.4rem;'>Full rest</td></tr>
+</table>
+
+About 3 hrs/week of focused effort vs. 20hrs of anxious scrolling
+
+
+
+
+
+
+
+
+
+
+:::
+:::
+:::
+
+---
+
+## School Brain vs. Career Brain {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="50%"}
+::: {style="background: #e8f0fe; border-radius: 12px; padding: 1.2rem; height: 100%;"}
+**School Brain**
+
+When -- Class, studying, group projects
+
+Mindset -- Learner, analyst, collaborator
+
+Tools -- Canvas, notes, textbooks
+
+Off trigger -- Close the career portal when you open your textbook
+:::
+:::
+::: {.column width="50%"}
+::: {style="background: #fff8e1; border-radius: 12px; padding: 1.2rem; height: 100%;"}
+**Career Brain**
+
+When -- Your designated recruiting blocks
+
+Mindset -- Marketer, relationship-builder
+
+Tools -- LinkedIn, resume, email
+
+Off trigger -- One tab rule -- close Handshake when you open Canvas
+:::
+:::
+:::
+
+::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.7rem; margin-top: 0.8rem; border-radius: 4px; font-size: 0.85em;"}
+**Neuroscience** -- Context switching costs about 23 minutes of refocus time (Gloria Mark, UC Irvine). Protecting brain modes is not just strategy -- it is science.
+:::
+
+---
+
+## 03 - The Power of Strategic Collaboration {background-color="#003087"}
+
+::: {style="color: #CFB87C; font-size: 1.4em; margin-top: 2rem; text-align: center;"}
+Working Smarter Together
+:::
+
+---
+
+## Quick Poll - Who Are You in Group Projects? {background-color="#f5f7fa"}
+
+::: {style="text-align: center; background: white; border: 3px solid #003087; border-radius: 16px; padding: 2rem; max-width: 680px; margin: 0 auto;"}
+**Type your letter in the chat!**
+
+::: {style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1rem; text-align: left;"}
+::: {style="background: #e8f0fe; border-radius: 8px; padding: 1rem;"}
+**A -- The Planner**
+
+Makes the timeline nobody follows
+:::
+::: {style="background: #e8f0fe; border-radius: 8px; padding: 1rem;"}
+**B -- The Executor**
+
+Actually builds the thing
+:::
+::: {style="background: #e8f0fe; border-radius: 8px; padding: 1rem;"}
+**C -- The Presenter**
+
+Makes it look good to the world
+:::
+::: {style="background: #e8f0fe; border-radius: 8px; padding: 1rem;"}
+**D -- The Fixer**
+
+Cleans up at 2am
+:::
+:::
+:::
+
+---
+
+## Divide by Energy, Not Just Skill {background-color="#f5f7fa"}
+
+::: {style="background: #003087; color: white; border-radius: 8px; padding: 1rem 1.5rem; margin-bottom: 1rem; font-size: 0.9em;"}
+Teams that align tasks with members energy patterns outperform skill-matched teams by **up to 20%** on complex projects (Journal of Applied Psychology, 2014)
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+**Old Way -- Divide by Skill**
+
+- "You are good at Excel -- you do the model"
+- "You speak well -- you present"
+- Results in resentment and hidden imbalance
+:::
+::: {.column width="50%"}
+**Better Way -- Divide by Energy**
+
+- Who feels energized doing deep analysis?
+- Who works best in the morning vs. evening?
+- Who actually enjoys writing vs. visuals?
+:::
+:::
+
+::: {style="background: #CFB87C; color: #003087; border-radius: 8px; padding: 1rem; margin-top: 1rem; font-weight: 500;"}
+**Try this** -- Start every group project with 10 minutes of everyone completing: I do my best work when... -- it changes the dynamic completely.
+:::
+
+---
+
+## Avoiding the Team Carry Trap {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="58%"}
+**Why You Carry the Team**
+
+- Fear of bad grades you cannot control
+- Conflict avoidance
+- Perfectionism
+- I am always the reliable one
+
+**Why You Should Stop**
+
+- Breeds resentment in you
+- Robs teammates of learning
+- Accelerates your burnout fast
+- Trains them to keep relying on you
+
+**The Redistribution Script**
+
+> "I want to make sure we all own a piece of this -- can we each commit to X by Thursday?"
+:::
+::: {.column width="42%"}
+::: {style="background: #f8d7da; border: 2px solid #842029; border-radius: 12px; padding: 1.2rem;"}
+**Warning Signs**
+
+- You know everyone's tasks better than your own
+- You are the only one checking the group chat
+- You have done it yourself more than twice
+- You feel anxious when others handle their parts
+- You rewrite others work silently
+:::
+:::
+:::
+
+---
+
+## 04 - Normalizing Unproductive Rest {background-color="#003087"}
+
+::: {style="color: #CFB87C; font-size: 1.4em; margin-top: 2rem; text-align: center;"}
+Your Brain Needs Downtime to Perform
+:::
+
+---
+
+## Rest is Maintenance - The Science {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="55%"}
+**What Research Actually Shows**
+
+- The brain's default mode network activates during rest -- this is where creativity, insight, and memory consolidation happen (Buckner et al., 2008)
+
+- Students who take regular breaks retain **30% more** than those who study continuously (Kornell and Bjork, 2008)
+
+- Sleep deprivation reduces cognitive performance to the equivalent of being **legally drunk** (Williamson and Feyer, 2000)
+
+- A 10-minute walk **doubles creative output** in the subsequent task (Stanford, 2014)
+:::
+::: {.column width="45%"}
+::: {style="background: #003087; color: white; border-radius: 12px; padding: 1.2rem;"}
+**Types of Intentional Rest**
+
+**Micro-rest**
+5-min break every 50 min (Pomodoro)
+
+**Active rest**
+Walk, stretch, cook (not scrolling)
+
+**Social rest**
+Time with people who energize you
+
+**Sleep**
+7-9 hours. Non-negotiable.
+
+**Mind-wandering**
+Let your brain process in the background
+:::
+:::
+:::
+
+---
+
+## Intentional Rest vs. Avoidance {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="50%"}
+::: {style="background: #d4edda; border-radius: 12px; padding: 1.2rem; border-top: 4px solid #28a745;"}
+**Intentional Rest**
+
+- **Chosen** deliberately
+- Has a defined **start and end**
+- Leaves you feeling **recharged**
+- Examples -- scheduled walk, dinner with friends, reading fiction, nap with alarm
+
+Rest is giving yourself permission to stop -- so you can go again.
+:::
+:::
+::: {.column width="50%"}
+::: {style="background: #f8d7da; border-radius: 12px; padding: 1.2rem; border-top: 4px solid #842029;"}
+**Avoidance (Rest Disguise)**
+
+- You **fell into it** to escape
+- Feels **slightly guilty** the whole time
+- Leaves you **more anxious** than before
+- Examples -- 3-hour TikTok spiral, Netflix when you should be working
+
+Avoidance does not restore -- it just delays.
+:::
+:::
+:::
+
+::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.7rem; margin-top: 0.8rem; border-radius: 4px; font-size: 0.9em;"}
+**The tell** -- After intentional rest you feel **ready**. After avoidance you feel **worse**. Use this as your compass.
+:::
+
+---
+
+## 05 - Recognizing Red Flags Early {background-color="#003087"}
+
+::: {style="color: #CFB87C; font-size: 1.4em; margin-top: 2rem; text-align: center;"}
+Burnout Does Not Arrive Overnight
+:::
+
+---
+
+## The Burnout Warning System {background-color="#f5f7fa"}
+
+::: {style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-top: 0.5rem;"}
+::: {style="background: #fff3cd; border-radius: 12px; padding: 1.2rem; border-top: 4px solid #856404;"}
+**Emotional**
+
+- Constant irritability
+- Dread before class or work
+- Emotional numbness
+- Cynicism about your program
+- Feeling like nothing matters
+:::
+::: {style="background: #f8d7da; border-radius: 12px; padding: 1.2rem; border-top: 4px solid #842029;"}
+**Physical**
+
+- Chronic fatigue even after sleep
+- Frequent headaches
+- Getting sick more often
+- Insomnia or oversleeping
+- Appetite changes
+:::
+::: {style="background: #cce5ff; border-radius: 12px; padding: 1.2rem; border-top: 4px solid #004085;"}
+**Academic**
+
+- Falling behind with no catch-up plan
+- Procrastination becoming the norm
+- Confusion on topics you once knew
+- Missing deadlines for the first time
+- Avoiding professors and advisors
+:::
+:::
+
+::: {style="font-size: 0.85em; color: #555; margin-top: 0.8rem; text-align: center;"}
+Based on Maslach Burnout Inventory dimensions -- Emotional Exhaustion, Depersonalization, Reduced Personal Accomplishment
+:::
+
+---
+
+## The Traffic Light Check-In {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="55%"}
+**Every Sunday, Rate Yourself**
+
+::: {style="display: flex; flex-direction: column; gap: 0.7rem; margin-top: 0.5rem;"}
+::: {style="background: #d4edda; border-radius: 8px; padding: 0.8rem;"}
+**Green** -- Capable, rested, engaged. Keep going.
+:::
+::: {style="background: #fff3cd; border-radius: 8px; padding: 0.8rem;"}
+**Yellow** -- Something is off. Managing, but barely.
+:::
+::: {style="background: #f8d7da; border-radius: 8px; padding: 0.8rem;"}
+**Red** -- In distress. Need to act today.
+:::
+:::
+
+**If You Are Yellow or Red**
+
+1. Name what is specifically overwhelming you
+2. Cancel one non-essential commitment
+3. Talk to one person (friend, mentor, advisor)
+4. Access Baruch Counseling Center -- it is free
+:::
+::: {.column width="45%"}
+::: {style="background: #003087; color: white; border-radius: 12px; padding: 1.2rem;"}
+**Baruch Resources**
+
+* Counseling Center
+646-312-2155
+NVC Room 4-120
+
+* Student Affairs
+studentaffairs.baruch.cuny.edu
+
+* Baruch Learning Community
+Academic support and tutoring
+
+* Graduate Advisor
+They are on your side -- reach out!
+
+You do not have to be in crisis to ask for help.
+:::
+:::
+:::
+
+---
+
+## The 5-Minute Weekly Reset {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="58%"}
+**A Simple Sunday Ritual**
+
+Answer these 5 questions every week
+
+1. **What was my biggest win this week?**
+2. **What drained me the most?**
+3. **What is the ONE most important thing next week?**
+4. **Am I taking care of my body?** (sleep, food, movement)
+5. **Do I owe anyone a conversation?**
+
+Then write your **top 3 priorities** for the week on a sticky note. Put it where you will see it.
+:::
+::: {.column width="42%"}
+::: {style="background: #003087; color: #CFB87C; border-radius: 12px; padding: 1.5rem; text-align: center; font-size: 1.05em;"}
+You do not rise to the level of your goals. You fall to the level of your systems.
+
+::: {style="color: white; margin-top: 0.8rem; font-size: 0.85em;"}
+-- James Clear, Atomic Habits
+:::
+:::
+
+::: {style="margin-top: 1rem; background: #e8f0fe; border-radius: 8px; padding: 0.8rem; font-size: 0.85em;"}
+**Recommended tools**
+
+Notion weekly template - Google Calendar time blocking - The 1-3-5 to-do list method
+:::
+:::
+:::
+
+---
+
+## Toolkit Recap {background-color="#f5f7fa"}
+
+::: {style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem; margin-top: 0.5rem;"}
+::: {style="background: white; border: 2px solid #003087; border-radius: 10px; padding: 1rem; text-align: center;"}
+**Eisenhower Matrix**
+
+Prioritize by urgency x importance
+:::
+::: {style="background: white; border: 2px solid #003087; border-radius: 10px; padding: 1rem; text-align: center;"}
+**Pomodoro Technique**
+
+25 on / 5 off / 15 after 4 cycles
+:::
+::: {style="background: white; border: 2px solid #003087; border-radius: 10px; padding: 1rem; text-align: center;"}
+**Time Blocking**
+
+Tasks in calendar slots, not lists
+:::
+::: {style="background: white; border: 2px solid #CFB87C; border-radius: 10px; padding: 1rem; text-align: center;"}
+**Energy Audit**
+
+Track what energizes vs. drains you
+:::
+::: {style="background: white; border: 2px solid #CFB87C; border-radius: 10px; padding: 1rem; text-align: center;"}
+**Traffic Light Check-In**
+
+Weekly Green / Yellow / Red
+:::
+::: {style="background: white; border: 2px solid #CFB87C; border-radius: 10px; padding: 1rem; text-align: center;"}
+**Good Enough Practice**
+
+Set quality targets before you start
+:::
+:::
+
+---
+
+## Thank You! {background-color="#003087"}
+
+::: {style="text-align: center; color: #CFB87C; font-size: 1.4em; margin-top: 0.5rem;"}
+Lets Stay Connected
+:::
+
+---
+
+## Connect and Wrap Up {background-color="#f5f7fa"}
+
+::: {.columns}
+::: {.column width="48%"}
+**Find Us on LinkedIn**
+
+[**May Phyo Paing**](https://www.linkedin.com/in/may-phyo-2829-paing/)
+
+[**Raúl J. Solá Navarro**](https://www.linkedin.com/in/raul-sola-navarro/)
+
+**Before You Go**
+
+Please complete the **session feedback survey** -- link is in the chat!
+
+Takes 2 minutes and helps make future sessions even better.
+
+**Session Survey: [Link](https://urldefense.com/v3/__https:/forms.gle/5kvnGKcT1pLjTLn39__;!!NM37aKQmapIJ!fhoZv5ORLN9Nbw4xMj7b_2ORjsTtHKb6f99L8IVpe8Wy4jI_BJzamv4eIJGEk3E4F8Hv_sdfu9k49UbbQzLtQudKJ750QeB3wsCff0EH$)**
+:::
+::: {.column width="52%"}
+**Key Takeaways**
+
+1. Prioritize by **impact**, not urgency
+2. Set **boundaries** around recruiting time
+3. Collaborate by **energy**, not just skill
+4. Rest is **productive** -- protect it actively
+5. Catch burnout **early** -- do not wait for red
+
+::: {style="background: #003087; color: #CFB87C; border-radius: 10px; padding: 1rem; margin-top: 1rem; text-align: center;"}
+Graduate school is a sprint disguised as a marathon. Pace yourself.
+:::
+:::
+:::
+
+---
+
+## Questions and Answers {background-color="#003087"}
+
+::: {style="text-align: center; padding: 2rem;"}
+
+**Questions? Thoughts? Reactions?**
+
+::: {style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 1.5rem; margin: 1rem auto; max-width: 600px;"}
+Drop them in the **chat** or unmute and share!
+
+Any questions we cannot answer today will be followed up by our faculty sponsor.
+:::
+
+::: {style="margin-top: 1.5rem; color: #CFB87C;"}
+Thank you for spending your Wednesday morning with us!
+:::
+:::

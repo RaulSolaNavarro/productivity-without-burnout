@@ -1,0 +1,7 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Productivity Without Burnout"
+  description: "Thriving in Graduate School — Baruch College Zicklin School of Business Student Ambassador Virtual Café, April 15, 2025"

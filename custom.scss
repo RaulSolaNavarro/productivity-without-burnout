@@ -1,0 +1,229 @@
+/*-- scss:defaults --*/
+
+// Zicklin School of Business Color Palette
+$zicklin-blue: #003087;
+$zicklin-gold: #CFB87C;
+$zicklin-light-blue: #1a5276;
+$zicklin-light-bg: #f5f7fa;
+$zicklin-white: #ffffff;
+$zicklin-text: #1a1a2e;
+
+// Fonts
+$font-family-sans-serif: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+$presentation-heading-font: 'Georgia', 'Cambria', serif;
+$presentation-heading-color: $zicklin-blue;
+$presentation-heading-line-height: 1.2;
+$body-color: $zicklin-text;
+$link-color: $zicklin-blue;
+$selection-bg: $zicklin-gold;
+
+// Slide backgrounds
+$body-bg: #ffffff;
+
+/*-- scss:rules --*/
+
+// === SLIDE BASE ===
+.reveal {
+  font-size: 22px;
+  font-family: $font-family-sans-serif;
+}
+
+.reveal .slides section {
+  padding: 1rem 2rem;
+}
+
+// === HEADINGS ===
+.reveal h1 {
+  font-family: $presentation-heading-font;
+  font-size: 2.2em;
+  color: $zicklin-white;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.reveal h2 {
+  font-family: $presentation-heading-font;
+  font-size: 1.5em;
+  color: $zicklin-blue;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+  border-bottom: none;
+}
+
+.reveal h3 {
+  font-size: 1em;
+  font-weight: 700;
+  color: $zicklin-blue;
+  margin-bottom: 0.4rem;
+}
+
+// === LINKS ===
+.reveal a {
+  color: $zicklin-blue;
+  text-decoration: underline;
+
+  &:hover {
+    color: $zicklin-gold;
+  }
+}
+
+// === PROGRESS & CONTROLS ===
+.reveal .progress {
+  background: rgba(0, 48, 135, 0.2);
+  color: $zicklin-gold;
+}
+
+.reveal .controls {
+  color: $zicklin-blue;
+}
+
+// === SLIDE NUMBER ===
+.reveal .slide-number {
+  background: $zicklin-blue;
+  color: white;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 0.75em;
+}
+
+// === FOOTER ===
+.reveal .footer {
+  font-size: 0.65em;
+  color: #666;
+  padding: 4px 1rem;
+}
+
+// === LOGO ===
+.reveal .slide-logo {
+  max-height: 70px;
+  opacity: 0.9;
+}
+
+// === CODE BLOCKS ===
+.reveal pre {
+  background: #f5f7fa;
+  border: 1px solid #dde;
+  border-radius: 6px;
+  font-size: 0.75em;
+}
+
+// === TABLES ===
+.reveal table {
+  font-size: 0.85em;
+  border-collapse: collapse;
+  width: 100%;
+
+  th {
+    background: $zicklin-blue;
+    color: white;
+    padding: 6px 10px;
+    text-align: left;
+  }
+
+  td {
+    padding: 5px 10px;
+    border-bottom: 1px solid #eee;
+  }
+
+  tr:nth-child(even) td {
+    background: #f5f7fa;
+  }
+}
+
+// === CALLOUT BLOCKS ===
+.reveal .callout {
+  border-radius: 8px;
+  border-left-width: 5px;
+}
+
+// === FRAGMENT TRANSITIONS ===
+.reveal .fragment {
+  transition: all 0.3s ease;
+}
+
+// === TITLE SLIDE OVERRIDE ===
+.reveal .title-slide {
+  background: $zicklin-blue;
+
+  h1 {
+    color: white;
+    font-size: 2.4em;
+  }
+
+  .subtitle {
+    color: $zicklin-gold;
+    font-size: 1.2em;
+    margin-top: 0.5rem;
+  }
+
+  .date, .author {
+    color: rgba(255,255,255,0.8);
+    font-size: 0.9em;
+  }
+}
+
+// === BACKGROUND SECTIONS ===
+section[data-background-color="#003087"] {
+  h2 {
+    color: $zicklin-gold !important;
+  }
+
+  p, li {
+    color: white;
+  }
+}
+
+// === RESPONSIVE COLUMNS ===
+.reveal .columns {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+// === BULLETS ===
+.reveal ul {
+  margin-left: 1.2em;
+
+  li {
+    margin-bottom: 0.35rem;
+    line-height: 1.4;
+  }
+}
+
+// === BLOCKQUOTES ===
+.reveal blockquote {
+  background: #e8f0fe;
+  border-left: 4px solid $zicklin-blue;
+  padding: 0.8rem 1.2rem;
+  border-radius: 4px;
+  font-style: italic;
+  color: $zicklin-text;
+  margin: 0.8rem 0;
+}
+
+// === NOTES ===
+.reveal .speaker-notes {
+  font-size: 14px;
+}
+
+// === FIRST SLIDE (TITLE) ===
+.reveal .slides section:first-child {
+  background-color: #003087;
+}
+
+.reveal .slides section:first-child h2 {
+  color: #CFB87C !important;
+}
+
+// === LOGO POSITION ===
+.reveal .slide-logo {
+  bottom: 2rem !important;
+  right: 4rem !important;
+}
+
+// === LOGO SIZE AND POSITION ===
+.reveal .slide-logo {
+  max-height: 70px !important;
+  right: 80px !important;
+  bottom: 8px !important;
+}
