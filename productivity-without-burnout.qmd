@@ -7,7 +7,7 @@ format:
     transition: slide
     background-transition: fade
     logo: zicklin-logo.JPG
-    footer: "Zicklin School of Business | Student Ambassador Virtual Cafe | April 15, 2025"
+    footer: "Zicklin School of Business | Student Ambassador Virtual Cafe | April 15, 2026"
     width: 1280
     height: 720
     margin: 0.1
@@ -96,10 +96,12 @@ Expected Graduation Fall 2026
 
 - Master of Science in Finance 
 - Former Senior Analyst at [SMBC](https://www.smfg.co.jp/english/); current Graduate TA at [Baruch College](https://www.baruch.cuny.edu/) and Finance Intern at [Dakdan](http://www.dakdan.com)
-- I have been there! I have experienced the stress and overwhelm of grad school and recruiting, and I want to share the strategies that helped me thrive instead of just survive.
+- To me, 'burnout' is the exhaustion that sets in when coursework, job hunting, and 
+personal responsibilities all collide. I want to help fellow students recognize 
+this feeling early on and share the practical strategies that keep me balanced.
 
 ::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.8rem; margin-top: 1rem; border-radius: 4px; font-style: italic;"}
-"My path to Zicklin demanded resilience I didn’t know I had. As a first-generation student coming from a country facing instability, the transition was overwhelming at first. A new academic system, a new culture, a new pace of life. Over time, I found my rhythm, built meaningful connections, and began to see how this experience was shaping my growth. Somewhere along the way, I realized I was no longer just catching up. I was growing, adapting, and thriving." - Myself, 3 months ago
+Tip: When feeling overwhelmed, hit pause. Do a quick 'brain dump' of every pending task, set clear deadlines, and prioritize what actually needs your attention first. A clear plan instantly reduces stress and makes the workload manageable.
 
 :::
 :::
@@ -121,7 +123,7 @@ Please drop this in the **chat**
 **Your name - Your program - One emoji that describes your stress level right now**
 :::
 
-Take 60 seconds -- we will read a few out loud!
+We will read a few out loud!
 
 :::
 
@@ -161,8 +163,6 @@ Red Flags and Early Wins
 Q and A + Connect
 :::
 :::
-
-About 10 minutes per section - interactive throughout
 
 ---
 
@@ -235,7 +235,7 @@ Social media spirals - Unnecessary perfecting
 :::
 
 ::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.7rem; margin-top: 0.8rem; border-radius: 4px; font-size: 0.85em;"}
-**The Grad School Trap** -- Most burnout comes from spending time in the Delegate and Eliminate boxes, not from actually being too busy.
+**The Grad School Trap**: Most burnout comes from spending time in the Delegate and Eliminate boxes, not from actually being too busy.
 :::
 
 ---
@@ -371,7 +371,7 @@ Off trigger -- One tab rule -- close Handshake when you open Canvas
 :::
 
 ::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.7rem; margin-top: 0.8rem; border-radius: 4px; font-size: 0.85em;"}
-**Neuroscience** -- Context switching costs about 23 minutes of refocus time (Gloria Mark, UC Irvine). Protecting brain modes is not just strategy -- it is science.
+**Neuroscience**: Context switching costs about 23 minutes of refocus time (Gloria Mark, UC Irvine). Protecting brain modes is not just strategy -- it is science.
 :::
 
 ---
@@ -439,7 +439,7 @@ Teams that align tasks with members energy patterns outperform skill-matched tea
 :::
 
 ::: {style="background: #CFB87C; color: #003087; border-radius: 8px; padding: 1rem; margin-top: 1rem; font-weight: 500;"}
-**Try this** -- Start every group project with 10 minutes of everyone completing: I do my best work when... -- it changes the dynamic completely.
+**Try this**: Start every group project with 10 minutes of everyone completing: I do my best work when... -- it changes the dynamic completely.
 :::
 
 ---
@@ -557,7 +557,7 @@ Avoidance does not restore -- it just delays.
 :::
 
 ::: {style="background: #e8f0fe; border-left: 4px solid #003087; padding: 0.7rem; margin-top: 0.8rem; border-radius: 4px; font-size: 0.9em;"}
-**The tell** -- After intentional rest you feel **ready**. After avoidance you feel **worse**. Use this as your compass.
+**The tell**: After intentional rest you feel **ready**. After avoidance you feel **worse**. Use this as your compass.
 :::
 
 ---
@@ -603,7 +603,7 @@ Burnout Does Not Arrive Overnight
 :::
 
 ::: {style="font-size: 0.85em; color: #555; margin-top: 0.8rem; text-align: center;"}
-Based on Maslach Burnout Inventory dimensions -- Emotional Exhaustion, Depersonalization, Reduced Personal Accomplishment
+Based on Maslach Burnout Inventory dimensions: Emotional Exhaustion, De-personalization, Reduced Personal Accomplishment
 :::
 
 ---
@@ -637,20 +637,17 @@ Based on Maslach Burnout Inventory dimensions -- Emotional Exhaustion, Depersona
 ::: {style="background: #003087; color: white; border-radius: 12px; padding: 1.2rem;"}
 **Baruch Resources**
 
-* Counseling Center
-646-312-2155
-NVC Room 4-120
+* [Counseling Center](https://studentaffairs.baruch.cuny.edu/counseling/)
 
-* Student Affairs
-studentaffairs.baruch.cuny.edu
+* [Graduate Career Management Center (GCMC)](https://zicklin.baruch.cuny.edu/academic-programs/graduate/student-experience/gcmc-graduate-career-management-center/)
 
-* Baruch Learning Community
-Academic support and tutoring
+* [Student Affairs](https://studentaffairs.baruch.cuny.edu/)
 
-* Graduate Advisor
-They are on your side -- reach out!
+* [Baruch Learning Community -- Academic support and tutoring (SACC)](https://sacc.baruch.cuny.edu/)
 
-You do not have to be in crisis to ask for help.
+* [Graduate Advisor](https://zicklin.baruch.cuny.edu/current/graduate-advisement-hub/)
+
+They are on your side -- reach out! You do not have to be in crisis to ask for help.
 :::
 :::
 :::
@@ -685,7 +682,12 @@ You do not rise to the level of your goals. You fall to the level of your system
 ::: {style="margin-top: 1rem; background: #e8f0fe; border-radius: 8px; padding: 0.8rem; font-size: 0.85em;"}
 **Recommended tools**
 
-Notion weekly template - Google Calendar time blocking - The 1-3-5 to-do list method
+- Calendar time blocking 
+- Screen Time iPhone App 
+- Accountability Buddy 
+- Microsoft To Do List 
+- Physical planner 
+- Focus music playlist
 :::
 :::
 :::
